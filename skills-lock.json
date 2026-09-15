@@ -175,6 +175,13 @@
       "skillPath": "skills/planning-and-task-breakdown/SKILL.md",
       "computedHash": "0dc14a1402cdabd376f2d81d2225fcb4a18ee63d58b945ff83affeb024285b8f"
     },
+    "scrapling-official": {
+      "source": "D4Vinci/Scrapling",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "agent-skill/Scrapling-Skill/SKILL.md",
+      "computedHash": "5f254a9abffac55428e873a3f0362c02241e3e2e167800f33706495c59edb41a"
+    },
     "security-and-hardening": {
       "source": "addyosmani/agent-skills",
       "sourceType": "github",
